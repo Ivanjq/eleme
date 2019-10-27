@@ -30,5 +30,8 @@ npm run lint
 npm run test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Request data
+```
+cmd ==> into project directory ==> npm install http-server -g ==> into dist ==> http-server
+
+```
